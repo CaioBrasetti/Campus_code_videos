@@ -1,4 +1,4 @@
-Esse projeto foi realizado para aprimorar meus conhecimentos em Ruby onde desenvolvi varias condições para solucionar os exercicios propostos no pdf disponiobilizado gratuitamente no "Treina DEV".
+Esse projeto foi realizado para aprimorar meus conhecimentos em Ruby onde desenvolvi varias condições para solucionar os exercicios propostos nos videos disponibilizados gratuitamente no "Treina DEV".
 
 Esse projeto foi desenvolvido em Ruby 2.6.8.
 
